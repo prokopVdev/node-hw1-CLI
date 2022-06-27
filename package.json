@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prokopVdev/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokopVdev/node-practice/issues"
+  },
+  "homepage": "https://github.com/prokopVdev/node-practice#readme",
+  "dependencies": {
+    "calc-js": "^2.0.7"
+  }
+}
