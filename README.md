@@ -10,4 +10,4 @@ https://monosnap.com/file/9dKeyLkGe0tp2L8kDbNbNVrRsRGRax
 "remove"
 https://monosnap.com/file/6PPWvGhxtqBqMIuilDd51qkLEqq0wG
 
-Я не могу понять почему при каждой команде допольнительно вызывается listContacts в консоль, может из-за fs.readfile. Вообщем жду фидбек как это исправить ;)
+Я не могу понять почему при каждой команде допольнительно вызывается listContacts в консоль, может из-за fs.readfile. Вообщем жду фидбек как это исправить ;) (Исправил, скрины не перезаливал)
